@@ -1,8 +1,12 @@
 # EEP596 RecSys Project
- 
-Data Resource - IMDB Dataset:
+University of Washington
+Qingchuan Hou & Bo Wang
+
+
+## Data Resource
+**[1] IMDB Dataset:**
 https://www.imdb.com/interfaces/
 https://datasets.imdbws.com
 
-MovieLens:
+**[2] MovieLens:**
 https://grouplens.org/datasets/movielens/latest/
