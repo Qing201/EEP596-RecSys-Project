@@ -1,6 +1,6 @@
 # EEP596 RecSys Project
-University of Washington
-Qingchuan Hou & Bo Wang
+University of Washington \\
+ Qingchuan Hou & Bo Wang
 
 
 ## Data Resource
